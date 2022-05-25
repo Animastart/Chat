@@ -1,0 +1,7 @@
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\XamSignalRClient.csproj.AssemblyReference.cache
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\XamSignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\XamSignalRClient.AssemblyInfoInputs.cache
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\XamSignalRClient.AssemblyInfo.cs
+C:\Users\oleg0\source\repos\XamSignalRClient\XamSignalRClient\XamSignalRClient\obj\Debug\netstandard2.0\XamSignalRClient.csproj.CoreCompileInputs.cache
